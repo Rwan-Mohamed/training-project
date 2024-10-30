@@ -2,7 +2,7 @@
 ## to colse:
 ### 1.ciruit connection:
 you can here see the connection of the ciruit and the code used to run it-->>
-### https://www.tinkercad.com/things/aN5IIF9XL12-sizzling-densor/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=W1dPCJ6PqEfyYee1NqkNDuYbJXm6ACWHJ8wz6bhUC5k
+### [to close ciruit](https://www.tinkercad.com/things/aN5IIF9XL12-to-close)
 
 ### 2.usage:
 This subsystem  is used to detect whether a wall is close or far from a car while parkin so I created a tinkercad sketch that uses ultra sonic sensor to detect the measured distance and display it on serial monitor and also make an indicator contains a 3 led and a buzzer and each of the 3 led and buzzer will behave different depend on the state
@@ -16,7 +16,7 @@ all the led will be high and the buzzer frequency will be maximum
 ## on my way:
 ### 1.ciruit connection:
 you can here see the connection of the ciruit and the code used to run it-->>
-### https://www.tinkercad.com/things/2RJQfABzWkI-7-segment-display-with-ir-remot/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=-2SvdqVT6ugdiQ3ntQEi1yX5G7-LhUXTnp6XJ2C_o04
+### [on my way ciruit](https://www.tinkercad.com/things/2RJQfABzWkI-7-segment-display-with-ir-remot)
 
 ### 2.usage:
 It is a simple system using 7 segment display and IR remote so that when:  
